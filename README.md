@@ -31,3 +31,16 @@ A major landmark of Hyderabad with four graceful **minarets** located in the old
   * Bluetooth Speaker.
 
 **[AboutMe.md](AboutMe.md)**
+
+---
+
+# Food/Drinks i recommand:
+
+The below Food/Drinks you must try if you visit Hyderbad:
+
+| Food/Drink | Location | Expected Price |
+| --- | --- | --- |
+| Mutton Biryani | Shah Gouse | 500 |
+| Fried Maggie | DLF | 50 |
+| Dosa | Ram Ki Bandi | 100 |
+| Pani Puri | Gokul Chat | 75 |
