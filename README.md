@@ -18,3 +18,14 @@ A major landmark of Hyderabad with four graceful **minarets** located in the old
      1. Airport to LB Nagar.
      2. LB Nagar to Karmanghat.
   4. Walk for 5 Min to reach home.
+
+* Items to be purchased:
+  * Groceries:
+    * Chips.
+    * ice-cream.
+    * buscuits.
+  * Drinks:
+    * Thumbsup.
+    * Maaza.
+  * Baloons.
+  * Bluetooth Speaker.
