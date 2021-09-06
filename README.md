@@ -44,3 +44,10 @@ The below Food/Drinks you must try if you visit Hyderbad:
 | Fried Maggie | DLF | 50 |
 | Dosa | Ram Ki Bandi | 100 |
 | Pani Puri | Gokul Chat | 75 |
+
+---
+
+# Pithy Quotes
+
+> "Don't cry because it's over. Smile because it happened." —*Dr. Seuss*</br>
+> "Anyone who has never made a mistake has never tried anything new." —*Albert Einstein*
