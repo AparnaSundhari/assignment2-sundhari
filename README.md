@@ -51,3 +51,25 @@ The below Food/Drinks you must try if you visit Hyderbad:
 
 > "Don't cry because it's over. Smile because it happened." —*Dr. Seuss*</br>
 > "Anyone who has never made a mistake has never tried anything new." —*Albert Einstein*
+
+---
+
+# Area of simple polygon 
+
+> The shoelace formula or shoelace algorithm (also known as Gauss's area formula and the surveyor's formula) is a mathematical algorithm to determine the area of a simple polygon whose vertices are described by their Cartesian coordinates in the plane.
+
+[Click here to know more](https://en.wikipedia.org/wiki/Shoelace_formula)
+
+```
+double area(const vector<point>& fig) {
+    double res = 0;
+    for (unsigned i = 0; i < fig.size(); i++) {
+        point p = i ? fig[i - 1] : fig.back();
+        point q = fig[i];
+        res += (p.x - q.x) * (p.y + q.y);
+    }
+    return fabs(res) / 2;
+}
+```
+
+[Code Source](https://cp-algorithms.com/geometry/area-of-simple-polygon.html)
