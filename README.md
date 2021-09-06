@@ -29,5 +29,3 @@ A major landmark of Hyderabad with four graceful **minarets** located in the old
     * Maaza.
   * Baloons.
   * Bluetooth Speaker.
-
-  **[AboutMe.md](AboutMe.md)**
